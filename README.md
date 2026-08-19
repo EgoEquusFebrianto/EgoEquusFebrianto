@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FEBRIANTO KUDADIRI!;Software+Engineer;Data+Engineer;Full+Stack+Developer;Backend+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FEBRIANTO KUDADIRI!;Software+Engineer;Data+Engineer;Full+Stack+Developer;Backend+Enthusiast" />
 </p>
 
 <!-- About Me Section -->
@@ -104,15 +104,6 @@ Saya adalah  **Calon Sarjana** dengan minat utama pada **Software Engineering, D
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoEquusFebrianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoEquusFebrianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
---
 
 ## 📚 Currently Learning
 
