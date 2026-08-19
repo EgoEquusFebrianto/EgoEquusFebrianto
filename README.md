@@ -117,7 +117,7 @@ Saya adalah  **Calon Sarjana** dengan minat utama pada **Software Engineering, D
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EgoEquusFebrianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=EgoEquusFebrianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!---
