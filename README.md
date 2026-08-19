@@ -114,22 +114,6 @@ Saya adalah  **Calon Sarjana** dengan minat utama pada **Software Engineering, D
 
 --
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EgoEquusFebrianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EgoEquusFebrianto&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Backend Development
