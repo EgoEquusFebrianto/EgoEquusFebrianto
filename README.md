@@ -105,19 +105,27 @@ Saya adalah  **Calon Sarjana** dengan minat utama pada **Software Engineering, D
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kudadiri&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudadiri&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EgoEquusFebrianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoEquusFebrianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
----
+--
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kudadiri&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=EgoEquusFebrianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+--
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EgoEquusFebrianto&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
