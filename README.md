@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FEBRIANTO KUDADIRI!;Software+Engineer;Data+Engineer;Full+Stack+Developer;Backend+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FEBRIANTO+KUDADIRI!;Software+Engineer;Data+Engineer;Full+Stack+Developer;Backend+Enthusiast" />
 </p>
 
 <!-- About Me Section -->
